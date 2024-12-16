@@ -5,6 +5,18 @@
 <p align="left"> <a href="https://twitter.com/ahsanur_sumon" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanur_sumon?logo=twitter&style=for-the-badge" alt="ahsanur_sumon" /></a> </p>
 <!-- <p align="left"> <a href="https://twitter.com/ahsanur_sumon" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)" alt="ahsanur_sumon" /></a> </p> -->
 
+
+Hey there 👋
+
+ I am passionate about working in the IT industry. I am dedicated and willing to go above and beyond for my work. During my
+ Bachelor of Science in Computer Science and Engineering at Daffodil International University, I gained a solid understanding of
+ Web Development (HTML, CSS, JS), Database Management, Cloud Computing, Programming Languages (Python, Java, C/C++),
+ Computer Architecture, Android Studio(Java), data structures, algorithms, IT-related Issues, Network (CCNA), Artificial
+ Intelligence (Chat GPT, Gemini) and software development methodologies. Through academic projects, I had the chance to
+ apply my knowledge to real-world challenges, developing, problem-solving, teamwork, and communication. I am a capable and
+ consistent problem solver skilled at prioritizing and managing projects with proficiency.
+
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <br>
 
