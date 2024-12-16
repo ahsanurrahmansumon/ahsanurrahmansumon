@@ -5,7 +5,11 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
 
 <p align="left"> <a href="https://twitter.com/ahsanur_sumon" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanur_sumon?logo=twitter&style=for-the-badge" alt="ahsanur_sumon" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/ahsanur_sumon" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)" alt="ahsanur_sumon" /></a> </p> -->
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<br>
+
 - 🔭 I’m currently working on **Laravel Project**
 
 - 🌱 I’m currently learning **Laravel, React, Flutter**
