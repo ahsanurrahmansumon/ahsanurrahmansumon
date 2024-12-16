@@ -52,7 +52,7 @@ Hey there 👋
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanurrahmansumon&show_icons=true&locale=en&layout=compact" alt="ahsanurrahmansumon" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanurrahmansumon&show_icons=true&locale=en" alt="ahsanurrahmansumon" /></p>
 <br><hr>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanurrahmansumon" alt="ahsanurrahmansumon" /></p>
+<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanurrahmansumon" alt="ahsanurrahmansumon" /></p>
 <br><hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ahsanurrahmansumon" alt="ahsanurrahmansumon" /></a> </p>
 <br><hr>
